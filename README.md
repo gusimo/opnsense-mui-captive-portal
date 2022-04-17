@@ -1,6 +1,17 @@
 # Vue / Vuetify based Captive Portal for OPNSense
 Deploying a nice responsive material UI to your OPNSense.
 
+![Login](https://github.com/gusimo/opnsense-mui-captive-portal/raw/main/download/login.png)
+
+![Login](https://github.com/gusimo/opnsense-mui-captive-portal/raw/main/download/statistics.png)
+
+## Releases
+
+### Version 1
+Working, tested the basic functionality.
+
+[download zip](https://github.com/gusimo/opnsense-mui-captive-portal/raw/main/download/Release1.zip)
+
 ## Project setup
 ```
 yarn install
