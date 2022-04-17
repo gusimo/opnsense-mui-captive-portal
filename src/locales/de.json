@@ -1,0 +1,28 @@
+{
+  "loginform": {
+    "headline": "Wifi Login",
+    "btnLogin": "Login",
+    "btnLogout": "Abmelden",
+    "username": "Benutzername",
+    "password": "Passwort",
+    "introduction": "Für den Internetzugriff musst du dich hier anmelden. Wenn du noch keinen Anmeldecode hast, musst du ihn vor Ort erfragen.",
+    "acceptTerms": "Ich akzeptiere die Nutzungsbedingungen",
+    "showTerms": "Nutzungsbedingungen anzeigen"
+  },
+  "stats": {
+    "stats": "Verbindungsdetails",
+    "reload": "Aktualisieren"
+  },
+  "footer": {
+    "copyright": "licensed, https://github.com/gusimo"
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "text": "Durch die Eingabe Deiner Zugangsdaten wird die Internetverbindung für dich freigeschaltet. Ab diesem Zeitpunkt werden Deine Aktionen im Internet, die Du über diese Verbindung tätigst, aufgezeichnet und für die nächsten 90 Tage aufbewahrt. Dies beinhaltet alle aufgerufenen Webseiten inklusive der Uhrzeit. Der Inhalt Deiner Tätigkeiten ist nicht sichtbar, sofern Du eine Verschlüsselung (https, tls) verwendest. So bleiben Deine Passworte natürlich stets geheim.",
+    "btnAccept": "Akzeptieren",
+    "btnReject": "Ablehnen"
+  },
+  "ERROR_REQUEST": "Serveranfrage fehlgeschlagen",
+  "SUCCESS_LOGIN": "Anmeldung erfolgreich",
+  "SUCCESS_LOGOUT": "Abmeldung erfolgreich"
+}

@@ -1,0 +1,28 @@
+{
+  "loginform": {
+    "headline": "Wifi Login",
+    "btnLogin": "Log in",
+    "btnLogout": "Log out",
+    "username": "Username",
+    "password": "Password",
+    "introduction": "You have to enter your credentials to access the internet on this Wifi. If you have no credentials yet, you have to ask someone for them.",
+    "acceptTerms": "I accept the terms & conditions",
+    "showTerms": "Show terms & conditions"
+  },
+  "stats": {
+    "stats": "Connection stats",
+    "reload": "Refresh"
+  },
+  "footer": {
+    "copyright": "Lizenz, https://github.com/gusimo"
+  },
+  "terms": {
+    "title": "Terms & Conditions",
+    "text": "By entering your access data, the Internet connection is activated for you. From this point on, your actions on the Internet that you perform via this connection are recorded and stored for the next 90 days. This includes all visited web pages including the time. The content of your activities is not visible if you use encryption (https, tls). Doing so, your passwords will always remain secret.",
+    "btnAccept": "Accept",
+    "btnReject": "Reject"
+  },
+  "ERROR_REQUEST": "Error communicating with the server",
+  "SUCCESS_LOGIN": "Login successful",
+  "SUCCESS_LOGOUT": "Logout successful"
+}
